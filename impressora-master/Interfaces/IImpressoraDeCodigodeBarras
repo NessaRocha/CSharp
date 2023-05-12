@@ -1,0 +1,10 @@
+using System;
+
+
+namespace Etiquetagem.Impressoras
+{
+    public interface IImpressoraDeCodigoDeBarras
+    {
+        bool ImprimirEtiqueta(Produto produto);
+    }
+}

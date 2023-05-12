@@ -1,0 +1,15 @@
+C:\Users\impressora\bin\Debug\net7.0\impressora.exe
+C:\Users\impressora\bin\Debug\net7.0\impressora.deps.json
+C:\Users\impressora\bin\Debug\net7.0\impressora.runtimeconfig.json
+C:\Users\impressora\bin\Debug\net7.0\impressora.dll
+C:\Users\impressora\bin\Debug\net7.0\impressora.pdb
+C:\Users\impressora\obj\Debug\net7.0\impressora.csproj.AssemblyReference.cache
+C:\Users\impressora\obj\Debug\net7.0\impressora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impressora\obj\Debug\net7.0\impressora.AssemblyInfoInputs.cache
+C:\Users\impressora\obj\Debug\net7.0\impressora.AssemblyInfo.cs
+C:\Users\impressora\obj\Debug\net7.0\impressora.csproj.CoreCompileInputs.cache
+C:\Users\impressora\obj\Debug\net7.0\impressora.dll
+C:\Users\impressora\obj\Debug\net7.0\refint\impressora.dll
+C:\Users\impressora\obj\Debug\net7.0\impressora.pdb
+C:\Users\impressora\obj\Debug\net7.0\impressora.genruntimeconfig.cache
+C:\Users\impressora\obj\Debug\net7.0\ref\impressora.dll
