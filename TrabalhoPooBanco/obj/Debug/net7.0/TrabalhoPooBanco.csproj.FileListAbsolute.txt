@@ -1,0 +1,30 @@
+/home/leticia/TrabalhoPooBanco/bin/Debug/net7.0/TrabalhoPooBanco
+/home/leticia/TrabalhoPooBanco/bin/Debug/net7.0/TrabalhoPooBanco.deps.json
+/home/leticia/TrabalhoPooBanco/bin/Debug/net7.0/TrabalhoPooBanco.runtimeconfig.json
+/home/leticia/TrabalhoPooBanco/bin/Debug/net7.0/TrabalhoPooBanco.dll
+/home/leticia/TrabalhoPooBanco/bin/Debug/net7.0/TrabalhoPooBanco.pdb
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/TrabalhoPooBanco.csproj.AssemblyReference.cache
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/TrabalhoPooBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/TrabalhoPooBanco.AssemblyInfoInputs.cache
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/TrabalhoPooBanco.AssemblyInfo.cs
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/TrabalhoPooBanco.csproj.CoreCompileInputs.cache
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/TrabalhoPooBanco.dll
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/refint/TrabalhoPooBanco.dll
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/TrabalhoPooBanco.pdb
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/TrabalhoPooBanco.genruntimeconfig.cache
+/home/leticia/TrabalhoPooBanco/obj/Debug/net7.0/ref/TrabalhoPooBanco.dll
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\bin\Debug\net7.0\TrabalhoPooBanco.exe
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\bin\Debug\net7.0\TrabalhoPooBanco.deps.json
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\bin\Debug\net7.0\TrabalhoPooBanco.runtimeconfig.json
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\bin\Debug\net7.0\TrabalhoPooBanco.dll
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\bin\Debug\net7.0\TrabalhoPooBanco.pdb
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\TrabalhoPooBanco.csproj.AssemblyReference.cache
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\TrabalhoPooBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\TrabalhoPooBanco.AssemblyInfoInputs.cache
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\TrabalhoPooBanco.AssemblyInfo.cs
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\TrabalhoPooBanco.csproj.CoreCompileInputs.cache
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\TrabalhoPooBanco.dll
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\refint\TrabalhoPooBanco.dll
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\TrabalhoPooBanco.pdb
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\TrabalhoPooBanco.genruntimeconfig.cache
+C:\Users\nessa\OneDrive\Área de Trabalho\TrabalhoPooBanco\obj\Debug\net7.0\ref\TrabalhoPooBanco.dll
